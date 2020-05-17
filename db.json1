@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "theme": "Just to Display a Dummy Data"
+    }
+  ],
+  "profile": {
+    "name": "This is a fake Api i just created on my github account"
+  },
+  "another": {
+     1 : "The way this api thing stress me today erh",
+    "id": 5
+}
