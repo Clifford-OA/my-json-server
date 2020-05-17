@@ -11,18 +11,6 @@
   "question": {
      "description": "I heard TA's have resume working, Have you going to campus?."
                },
-  "post": 
-    {
-      "number": 12,
-      "theme": "Just to Display a Dummy Data"
-    },
   
-  "new": {
-    "stress": "This is a fake Api i just created on my github account"
-  },
-  "another": {
-     "1" : "The way this api thing stress me today erh",
-    "num": 5
-}
 
 }
