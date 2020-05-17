@@ -1,16 +1,11 @@
 {
- "question": [{
-   "1": "As usual, you know that it's questions i would be asking you."
-        "I heard TAs have resume working, have you been going to campus?"
-         "Truth to be told, you are really helping me exploring things."
-        "I have created account at github for a long period of time but i don't normally even go there."
-         "ndwom baako nk)ma ad)fo me3nsa."
-
- }
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
   ],
-  "answer": [
-     {
-   "1": "I think you would answer them yourself."
+  "profile": {
+    "name": "typicode"
   }
-  ]
 }
