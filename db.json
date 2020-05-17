@@ -2,13 +2,13 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Assignment from my TA"
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "Astro"
   }
   "question": {
-     1: "How is that girl for your side."
+     "description": "How is that girl for your side."
                }
 }
